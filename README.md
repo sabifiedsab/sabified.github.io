@@ -42,7 +42,7 @@ apply_tokens(test_string)
 ```
 [WeaponSimulator](https://github.com/Sabified/WeaponSimulator/tree/making)
 ### Output
-[On Launc](https://prnt.sc/26t0nci)
+[On Launch](https://prnt.sc/26t0nci)
  
 [When clicked on p2 and damage](https://prnt.sc/26t0klo)
 

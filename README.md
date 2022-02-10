@@ -1,5 +1,5 @@
 # Sabified's Github Page!
-[Link](sabified.github.io)
+[Link](https://sabified.github.io)
 
 You can find my profile [here](https://github.com/Sabified/) and look at my repositories.
 

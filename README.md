@@ -1,4 +1,5 @@
 # Sabified's Github Page!
+[Link](sabified.github.io)
 
 You can find my profile [here](https://github.com/Sabified/) and look at my repositories.
 
@@ -18,8 +19,8 @@ greeting("Hello!")
 
 
 # Repositories
-[Tokenlister](https://github.com/Sabified/tokenlister/)
-### main.py
+## main.py in tokenlister
+[Repository Link](https://github.com/Sabified/tokenlister/)
 ```markdown
 TOKENS = {
     "0": "ZERO",
@@ -39,15 +40,18 @@ def apply_tokens(string):
     print(tokens)
 test_string = "0102"
 apply_tokens(test_string)
+
+< Output: Unknown Character: '2' Character 4
+['ZERO', 'ONE', 'ZERO', 'UNKNOWN']>
 ```
-[WeaponSimulator](https://github.com/Sabified/WeaponSimulator/tree/making)
-### Output
+## WeaponSimulator
+[Repository Link](https://github.com/Sabified/WeaponSimulator/tree/making)
 [On Launch](https://prnt.sc/26t0nci)
  
 [When clicked on p2 and damage](https://prnt.sc/26t0klo)
 
-[XPSystem](https://github.com/Sabified/XPSystem)
-### Output
+## XpSystem
+[Repository Link](https://github.com/Sabified/XPSystem)
 [On Launch](https://prnt.sc/26t0qtu)
 [When clicked on get xp many times](https://prnt.sc/26t0rrw)
 

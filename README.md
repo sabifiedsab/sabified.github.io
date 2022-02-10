@@ -2,11 +2,9 @@
 
 You can find my profile [here](https://github.com/Sabified/) and look at my repositories.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Greetings
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simple greeting function in python!
 
 ```markdown
 def greeting(text):

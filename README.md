@@ -46,13 +46,16 @@ apply_tokens(test_string)
 ```
 ## WeaponSimulator
 [Repository Link](https://github.com/Sabified/WeaponSimulator/tree/making)
+ 
 [On Launch](https://prnt.sc/26t0nci)
  
 [When clicked on p2 and damage](https://prnt.sc/26t0klo)
 
 ## XpSystem
 [Repository Link](https://github.com/Sabified/XPSystem)
+ 
 [On Launch](https://prnt.sc/26t0qtu)
+ 
 [When clicked on get xp many times](https://prnt.sc/26t0rrw)
 
 ## Support or Contact
